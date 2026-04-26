@@ -1,14 +1,13 @@
-# Hi there, I'm Devansh 👋
+# Hi there, I'm Leonor 👋
 
-- 🌱 I'm currently learning Web Development and Machine Learning
+- 🌱 I'm currently learning to be a teacher
 - ➡️ I'm looking to collaborate on Web Dev Projects 
-- 📫 To contact me: <a href = "https://www.linkedin.com/in/devansh-kant-kashyap-889742319/" >LinkedIn</a> 
+- 📫 To contact me: <a href = "www.linkedin.com/in/enleonormartinezmesas" >LinkedIn</a> 
 
 ## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
