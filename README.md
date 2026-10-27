@@ -1,4 +1,4 @@
-# Hi there, I'm Leonor 👋
+# Hi there, I'm Juan 👋
 
 - 🌱 I'm currently learning to be a teacher
 - ➡️ I'm looking to collaborate on Web Dev Projects 
